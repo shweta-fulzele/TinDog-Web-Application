@@ -64,7 +64,10 @@
      padding: 7% 15%;
      text-align: center;
  }
- 
+ .footer_icon {
+     margin: 0 5px;
+ }
+
  .footer-icons {
      margin: 20px 10px;
  }
