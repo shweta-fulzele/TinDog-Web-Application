@@ -35,6 +35,10 @@
      z-index: 1;
  }
  
+.fab {
+ padding: 1px;
+}
+
  .feature-box {
      text-align: center;
      padding: 5%;
